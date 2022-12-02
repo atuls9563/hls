@@ -1,0 +1,63 @@
+body .block {
+    margin-top: 20px;
+  }
+  body .container {
+    padding: 1.5rem;
+  }
+  body .aster{
+    color: red;
+  }
+  body .asterTwo {
+    color: red;
+    margin-top: 20px;
+    font-weight: 600;
+  }
+  body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+    font-size: 1.25rem;
+  }
+  body .footer {
+    margin-top: 20px;
+  }
+  body .icon {
+    cursor: pointer;
+  }
+  
+  body .footerTwo {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  body .button {
+    text-transform: none;
+    display: flex;
+    justify-content: flex-end;
+  }
+  body .buttonTwo {
+    text-transform: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+  }
+  body .header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  body .search {
+    margin: 15px auto 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  body .divider3 {
+    width: 4px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+  }
+  body .cell {
+    min-width: 220px;
+  }
+  

@@ -1,0 +1,82 @@
+body .container {
+  min-height: 100%;
+  min-width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+body .heading1 {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  padding: 10px;
+}
+body .headingTwo {
+  line-height: 1.6;
+  font-weight: 600;
+}
+
+
+
+body .buttonBox {
+  padding: 20px 15px;
+  display: flex;
+  justify-content: center;
+}
+body .boxFont {
+  font-size: 25px;
+  color: white;
+}
+
+body .table {
+  margin-top: 20px;
+}
+
+body .boxOne {
+  margin-top: 20px;
+}
+body .space {
+  padding: 10px 0px 10px 10px;
+}
+body .headingBox {
+  padding: 10px;
+}
+
+body .boxOneArea {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+body .spaceTwo {
+  padding: 10px 15px;
+}
+body .footer {
+  display: flex;
+  padding: 5px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+body .contentBoxOne {
+  margin-top: 20px;
+  overflow: hidden;
+}
+body .contentBoxSpaceOne {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+body .contentBoxSpaceThree {
+  padding: 3.5px 10px;
+}
+
+body .button3 {
+  margin: 15px;
+  text-transform: none;
+  padding: 15px;
+}

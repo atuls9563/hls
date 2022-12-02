@@ -1,0 +1,37 @@
+body .modalContent {
+  padding: 0;
+  overflow: auto;
+  max-width: 700px;
+  margin: auto;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  height: 55%;
+}
+
+body .heading {
+  color: orangered;
+}
+body .block {
+  margin-top: 15px;
+}
+body .icon {
+  cursor: pointer;
+}
+body .button {
+  text-transform: none;
+  margin-left: 5px;
+}
+body .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body .footer {
+  display: flex;
+  justify-content: flex-start;
+}

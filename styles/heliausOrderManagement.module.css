@@ -1,0 +1,45 @@
+body .heading {
+  margin-right: 5px;
+}
+body .container {
+  padding: 1.5rem;
+}
+body .textField {
+  
+  margin-top: 15px;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .divider3 {
+  width: 4px;
+  height: 40px;
+  color: rgb(0, 0, 0);
+}
+body .icon{
+  cursor: pointer;
+}
+body .heading2 {
+  color: rgb(100, 100, 234);
+}
+body .button {
+  text-transform: none;
+  margin-left: 5px;
+}
+body .table {
+  margin-top: 15px;
+}
+body .headerRight{
+  display: flex;
+  justify-content: right;
+ 
+}
+body .topTen{
+  margin-top: 10px;
+  align-items: center;
+}
+body .search {
+  margin: 20px 0px 0px 0px;
+}
+

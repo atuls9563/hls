@@ -1,0 +1,99 @@
+
+body .divider1 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+body .divider {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+body .colorPick {
+  background-color: #32cd32;
+  width: 25px;
+  height: 25px;
+  margin-top: 5px;
+  cursor: pointer;
+  color: white;
+}
+body .digit {
+  color: blue ;
+  font-weight: 600 ;
+}
+body .header {
+  display: flex;
+  justify-content: space-between;
+}
+body .heading {
+  font-weight: 600 ;
+  color: black ;
+}
+body .headingtext {
+  display: flex;
+  justify-content: center;
+  font-weight: 400 ;
+}
+body .heading1 {
+  font-weight: 400 ;
+  color: black ;
+  margin-bottom: 5px ;
+}
+
+
+body .divider3 {
+  width: 4px ;
+  height: 40px ;
+  color: rgb(0, 0, 0) ;
+}
+body .heading2 {
+  color: rgb(100, 100, 234) ;
+}
+
+body .headText {
+  display: flex ;
+  justify-content: right ;
+}
+
+body .tbodyTwo {
+  padding: 3px ;
+  color: blue ;
+  cursor: pointer;
+  font-weight: 600 ;
+}
+body .button2 {
+  text-transform: none ;
+  margin-right: 10px ;
+  padding: 15px ;
+}
+body .footerText {
+  margin-top: 20px ;
+  font-weight: 400 ;
+}
+body .footer {
+  margin-top: 10px ;
+  color: black ;
+}
+body .colorPick2 {
+  background-color: #32cd32;
+  width: 25px;
+  height: 25px;
+  margin-top: 5px;
+  cursor: pointer;
+  color: white;
+}
+body .colorPick3 {
+  background-color: #ffa07a;
+  width: 25px;
+  height: 25px;
+  margin-top: 5px;
+  cursor: pointer;
+  color: white;
+}
+body .footerText2 {
+  display: flex;
+  align-items: center;
+}

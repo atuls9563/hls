@@ -1,0 +1,47 @@
+body .block {
+    margin-top: 20px;
+  }
+  body .container {
+    padding: 1.5rem;
+  }
+  body .asterTwo {
+    color: red;
+    margin-top: 20px;
+    font-weight: 600;
+  }
+  body .footer {
+    margin-top: 20px;
+  }
+  body .button {
+    margin: 10px;
+    text-transform: none;
+  }
+  body .heading {
+    color: orangered;
+  }
+  body .search {
+    margin: 15px auto 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  body .searchTwo {
+      margin: 15px 0px 0px auto;
+      display: flex;
+      align-items: center;
+      justify-content:right;
+    }
+  body .divider3 {
+    width: 4px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+  }
+  body .filter {
+    background-color: rgb(225, 224, 224);
+  }
+  body .headerTwo {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+  }
+  

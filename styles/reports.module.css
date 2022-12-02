@@ -1,0 +1,53 @@
+body .container {
+  padding: 1.5rem ;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+body .headingTwo:hover {
+  font-weight: 800 ;
+  cursor: pointer;
+ 
+}
+body .headingTwo {
+  display: flex ;
+  align-items: center ;
+}
+body .headerCard {
+  padding: 20px;
+}
+body .headingTwo{
+  display: flex ;
+  align-items: center ;
+ 
+}
+body .headerCard {
+  padding: 20px;
+}
+body .block {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px 15px 0px;
+}
+body .contentCard {
+  padding: 20px;
+  display: flex ;
+  align-items: center ;
+  width: 100%;
+  height: 100%;
+}
+
+body .box {
+  height: 90px;
+  border-radius: 8px;
+  display: flex ;
+  align-items: center ;
+  justify-content: center ;
+}
+body .box:hover {
+  font-weight: 800 ;
+  cursor: pointer;
+}
+

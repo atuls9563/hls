@@ -1,0 +1,18 @@
+body .container {
+    padding: 1.5rem;
+  }
+  body .textField {
+    margin-top: 20px !important;
+  }
+  body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  body .footer {
+    margin-top: 15px !important;
+  }
+  body .button {
+    text-transform: none;
+    display: flex;
+    margin-left: 15px;
+  }

@@ -1,0 +1,38 @@
+body .container {
+  padding: 1.5rem ;
+  overflow: hidden  ;
+  min-height: 100% ;
+  min-width: 100% ;
+}
+
+body .heading {
+  font-weight: 600 ;
+  color: black ;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin-bottom: 15px ;
+}
+
+
+body .header {
+  margin-top: 15px;
+}
+
+body .transform {
+  text-transform: none ;
+}
+body .footer {
+  margin: 20px 0px 0px 0px ;
+  justify-content: left;
+  align-items: center;
+}
+body .icon {
+  font-size: 30px ;
+}
+body .button {
+  margin: 5px ;
+  text-transform: none ;
+}

@@ -1,0 +1,32 @@
+body .container {
+  padding: 1.5rem ;
+}
+
+body .heading {
+  margin-right: 5px ;
+}
+body .textField {
+  display: flex;
+  align-items: center;
+  margin: 20px 15px 0px 0px ;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .aster {
+  color: red ;
+}
+
+body .button {
+  margin-left: 5px ;
+  text-transform: none ;
+}
+
+body .headingOne {
+  cursor: pointer ;
+}
+
+body .footer {
+  margin-top: 20px ;
+}

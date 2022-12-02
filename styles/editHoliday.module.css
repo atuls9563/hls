@@ -1,0 +1,31 @@
+body .container {
+    padding: 1.5rem;
+  }
+  
+  body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  
+  
+  body .headingFive {
+    display: flex;
+    align-items: center;
+  }
+  body .radio {
+    display: flex;
+  }
+  body .asterThree {
+    color: blue;
+  }
+  body .textField {
+    margin: 20px 15px 0px 0px;
+  }
+  body .textFieldTwo {
+    margin: 40px 0px 0px 15px;
+  }
+  body .button2 {
+    text-transform: none;
+    margin: 15px 10px 0px 0px;
+  }
+  

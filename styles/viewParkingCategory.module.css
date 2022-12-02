@@ -1,0 +1,27 @@
+body .container {
+  padding: 1.5rem ;
+}
+
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .table {
+  margin-top: 15px ;
+  width: 100%;
+}
+body .button {
+  margin-left: 5px ;
+  text-transform: none ;
+}
+body .search {
+  margin: 20px 0px 0px 0px ;
+}
+body .divider3 {
+  width: 4px ;
+  height: 40px ;
+  color: rgb(0, 0, 0) ;
+}
+body .heading2 {
+  color: rgb(100, 100, 234) ;
+}

@@ -1,0 +1,45 @@
+body .space {
+  padding: 0px 0px 10px 10px ;
+}
+body .heading1 {
+  font-weight: 400 ;
+  color: black ;
+  margin-bottom: 5px ;
+}
+body .heading3 {
+  font-weight: 400 ;
+ }
+ body .heading4 {
+  color: black ;
+  font-size: 14px ;
+  font-weight: 700 ;
+}
+body .check {
+  color: rgb(254, 104, 129);
+}
+body .heading2 {
+  color: rgb(100, 100, 234) ;
+}
+body .divider3 {
+  width: 4px ;
+  height: 40px ;
+  color: rgb(0, 0, 0) ;
+}
+body .table {
+  margin-top: 20px ;
+}
+
+body .icon {
+  cursor: pointer ;
+}
+body .iconTwo{
+  margin: 3px ;
+}
+body .button2 {
+  text-transform: none ;
+  margin-top: 10px ;
+  padding: 15px ;
+}
+body .extra {
+  margin-top: 10px ;
+}

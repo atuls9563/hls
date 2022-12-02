@@ -1,0 +1,31 @@
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .container {
+  padding: 1.5rem;
+}
+body .asterTwo {
+  color: red;
+  margin-top: -10px;
+  margin-left: 40px;
+}
+body .header {
+  margin-top: 20px;
+}
+body .heading {
+  margin-top: 20px;
+}
+body .block {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+body .button {
+  margin-top: 15px;
+  text-transform: none;
+}
+body .radio {
+  display: flex;
+}

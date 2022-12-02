@@ -1,0 +1,29 @@
+body .title {
+  text-align: center;
+  font-size: 1.5rem;
+  color: red ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body .header,
+.MuiPaper-root {
+  position: fixed ;
+  height: 50%;
+  width: 100%;
+  max-width: 800 
+}
+body .subHeading {
+  text-align: left;
+  margin-bottom: 7px;
+  font-size: 14px;
+  font-weight: 600 
+ }
+ body .icon {
+  color: black;
+  cursor: pointer 
+}
+body .alert {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+body .button{
+    text-transform: none;
+}
+body .footer {
+    display: flex;
+    justify-content: flex-start;
+  }

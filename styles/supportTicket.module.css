@@ -1,0 +1,68 @@
+body .heading {
+  font-weight: 600;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body .heading1 {
+  font-weight: 600;
+  color: black;
+  display: flex;
+  justify-content: left;
+}
+body .title {
+  font-size: 14px;
+  color: #eb6322;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+}
+body .icon {
+  color: grey;
+  cursor: pointer;
+  margin-left: auto;
+}
+body .icon2 {
+  font-size: 3rem;
+  color: white;
+  background-color: #eb6322;
+}
+
+body .containerModal {
+  padding: 0;
+  overflow: auto;
+
+  max-width: 700px;
+  margin: auto;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  height: 100%;
+}
+
+body .textarea {
+  height: 140px;
+  width: 100%;
+}
+
+body .heading {
+  font-weight: 600;
+  color: black;
+  display: flex;
+  justify-content: left;
+}
+body .footer {
+  float: left;
+}
+body .button {
+  color: white;
+  background-color: black;
+  text-transform: capitalize;
+  padding: 15px;
+}

@@ -1,0 +1,50 @@
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .container {
+  padding: 1.5rem;
+}
+body .asterTwo {
+  color: red;
+  margin-top: 20px;
+  font-weight: 600;
+  font-style: italic;
+}
+body .block {
+  margin-top: 20px;
+}
+
+body .button {
+  margin-left: 5px;
+}
+body .heading {
+  color: orangered;
+}
+
+body .header {
+  display: flex;
+  justify-content: space-between;
+}
+body .headerRight {
+  display: flex;
+  justify-content: right;
+}
+body .headingTwo {
+  margin-left: 10px;
+  font-weight: 800;
+}
+body .headingOne {
+  margin-left: 10px;
+}
+body .headerText {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+body .topTen {
+  margin-top: 15px;
+}
+body .table {
+  margin-top: 15px;
+}

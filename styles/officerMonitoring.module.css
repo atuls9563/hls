@@ -1,0 +1,45 @@
+body .container {
+    padding: 1.5rem ;
+  }
+
+  body  .heading {
+    margin: 5px ;
+  }
+  body  .textField {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px auto 0px 10px ;
+  }
+  body .textFieldTwo {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 5px 0px auto ;
+  }
+  body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  body .divider3 {
+    width: 4px ;
+    height: 40px ;
+    color: rgb(0, 0, 0) ;
+  }
+  
+  body .heading2 {
+    color: rgb(100, 100, 234) ;
+  }
+  body .button {
+    margin-left: 5px ;
+    text-transform: none ;
+  }
+  body .table {
+    margin-top: 15px ;
+    width: 100%;
+  }
+  body .headingOne {
+    cursor: pointer ;
+  }
+  body .search {
+    margin: 20px 0px 0px 0px ;
+  }
+  

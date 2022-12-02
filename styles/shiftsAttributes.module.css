@@ -1,0 +1,24 @@
+body .container {
+    padding: 1.5rem;
+  }
+  
+
+  body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+  }
+
+  body .button {
+    margin-left: 20px;
+    text-transform: none;
+  }
+  body .table {
+    margin-top: 15px;
+  }
+  body .icon {
+    cursor: pointer;
+  }
+body  .footerDown{
+    margin-top: 50px;
+  }
+  

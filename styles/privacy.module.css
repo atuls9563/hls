@@ -1,0 +1,24 @@
+body .header {
+  padding: 30px;
+  overflow: hidden ;
+}
+
+body .heading {
+  line-height: 1.6;
+  font-weight: 500;
+  margin-bottom: 15px ;
+}
+body .paragraph {
+  padding: 6px ;
+  font-size: 13px ;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.3px ;
+  line-height: 24px ;
+}
+body .subHeading {
+  margin: 20px 0px 10px 0px;
+  font-size: 24px ;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px 0px 0px 6px;
+}
+

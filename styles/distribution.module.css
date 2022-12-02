@@ -1,0 +1,40 @@
+body .container {
+  padding: 1.5rem;
+}
+
+body .textField {
+  display: flex;
+  align-items: center;
+}
+body .textFieldOne {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+body .heading {
+  margin-right: 5px;
+}
+body .search {
+  margin: 20px 0px 0px 0px;
+}
+body .table {
+  margin-top: 15px;
+  width: 100%;
+}
+body .divider3 {
+  width: 4px;
+  height: 40px;
+  color: rgb(0, 0, 0);
+}
+
+body .heading2 {
+  color: rgb(100, 100, 234);
+}
+body .headingOne {
+  cursor: pointer;
+}
+
+body .button {
+  text-transform: none;
+  margin: 15px 10px 0px 0px;
+}

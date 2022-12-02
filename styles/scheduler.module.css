@@ -1,0 +1,91 @@
+body .modal {
+  padding: 0;
+  overflow: auto;
+
+  max-width: 700px;
+  margin: auto;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  height: 100%;
+}
+
+body .container {
+  padding: 10px 10px;
+  margin: auto;
+  overflow: hidden;
+}
+body .icon {
+  cursor: pointer;
+}
+body .heading {
+  color: orangered;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+body .header {
+  display: flex;
+  justify-content: space-between;
+}
+body .boxTwo {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+}
+
+body .divider {
+  background-color: gray;
+}
+
+body .boxOneArea {
+  padding: 15px;
+  margin-top: 8px;
+}
+body .headingTwo {
+  margin-left: 10px;
+}
+body .spaceTwo {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px 10px 0px;
+  overflow: hidden;
+}
+
+body .spaceThree {
+  padding: 10px 0px 15px 0px;
+}
+body .link {
+  text-decoration: none;
+  color: #337ab7;
+  font-weight: 600;
+}
+body .link:hover {
+  color: orangered;
+}
+
+body .footer {
+  display: flex;
+  justify-content: center;
+}
+body .dividerTwo {
+  background-color: black;
+}
+
+body .headingThree {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+body .button2 {
+  text-transform: none;
+  margin: 15px;
+  padding: 15px;
+}

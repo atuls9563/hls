@@ -1,0 +1,48 @@
+body .modal {
+  padding: 0;
+  overflow-x: hidden;
+
+  max-width: 1000px;
+  margin: auto;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  height: 90%;
+}
+
+body .container {
+  padding: 10px 10px;
+  margin: auto;
+  overflow: hidden;
+}
+body .icon {
+  cursor: pointer;
+}
+body .heading {
+  color: orangered;
+}
+body .headingOne {
+  color: rgb(3, 3, 3);
+}
+body .block {
+  margin-top: 10px;
+}
+body .header {
+  display: flex;
+  justify-content: space-between;
+}
+body .divider {
+  background-color: gray;
+}
+body .footer {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+body .button {
+  text-transform: none;
+}

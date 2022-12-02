@@ -1,0 +1,14 @@
+body .container {
+  padding: 1.5rem;
+}
+
+body .textField {
+  margin-top: 20px;
+}
+body .aster{
+    color: red;
+}
+body .headingTwo {
+    margin-left: 10px;
+    font-weight: 800;
+  }

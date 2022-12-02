@@ -1,0 +1,50 @@
+body .space {
+  padding: 0px 0px 10px 10px ;
+  overflow: hidden ;
+}
+body .heading1 {
+  font-weight: 400 ;
+  margin-bottom: 5px ;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin: 15px 15px 0px 0px  ;
+}
+body .heading3 {
+  font-weight: 400 ;
+  color: red ;
+ 
+}
+body .headingLine{
+  margin-bottom: 15px ;
+}
+body .heading4 {
+    font-size: 14px ;
+  font-weight: 600 ;
+}
+body .block {
+  display: flex ;
+  align-items: center ;
+}
+
+body .heading2 {
+  color: rgb(100, 100, 234) ;
+}
+body .divider3 {
+  width: 4px ;
+  height: 40px ;
+  color: rgb(0, 0, 0) ;
+}
+
+body .table {
+  margin-top: 20px ;
+}
+
+body .icon {
+  cursor: pointer;
+}
+body .iconTwo{
+  margin: 3px ;
+}

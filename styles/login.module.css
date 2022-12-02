@@ -1,0 +1,121 @@
+body .container {
+  background-image: linear-gradient(to right, rgb(244, 148, 25), rgb(235, 99, 34));
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  min-width: 100vw;
+  overflow-x: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+body .left_image {
+  padding: 0px;
+}
+
+body .right_header {
+  padding: 20px;
+  margin-left: -20px;
+}
+body .title1 {
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  word-spacing: -1px;
+}
+body .lang {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+body .lang:hover {
+  text-decoration: underline;
+}
+
+body .user {
+  background-color: white;
+  font-size: 14px;
+  padding: 5px 0 0 12px;
+  margin-top: 8px;
+  color: black;
+}
+
+body .horizontal {
+  color: white;
+  width: 100%;
+  margin-top: 24px;
+}
+body .password {
+  background-color: white;
+  outline: none;
+  border: none;
+  margin-top: 15px;
+  font-size: 14px;
+  padding: 4px 0 0 12px;
+  margin-bottom: 10px;
+}
+body .forgot {
+  margin-top: 12px;
+  font-size: 14px;
+  color: white;
+  margin-bottom: 10px;
+}
+body .button1 {
+  color: white;
+  background-color: black;
+  font-size: 14px;
+  border-radius: 5px;
+  margin-top: 13px;
+  padding: 6px 12px 6px 12px;
+}
+body .submit:hover {
+  color: white;
+  background-color: black;
+}
+body .title2 {
+  font-size: 13px;
+  color: black;
+  margin-top: 3px;
+  font-weight: 500;
+  letter-spacing: 0pc;
+  line-height: 2.5rem;
+}
+body .title3 {
+  color: white !;
+  cursor: pointer;
+}
+body .button2 {
+  color: white;
+  background-color: black;
+  font-size: 13px;
+  text-transform: none;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 6px 12px;
+  letter-spacing: 0.15px;
+}
+body .error {
+  font-weight: 900;
+  color: Red;
+  font-size: 14px;
+  margin-left: 0px;
+}
+body .icon {
+  margin: 0px;
+}
+body .button2:hover {
+  color: white;
+  background-color: black;
+}
+
+body .footer {
+  font-size: 14px;
+  padding-top: 25px;
+  line-height: 1.428;
+  color: black;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: -0.3px;
+}

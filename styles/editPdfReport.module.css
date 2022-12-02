@@ -1,0 +1,59 @@
+body .container {
+  min-height: 100%;
+  min-width: 100%;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+body .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+body .headingOne {
+  font-weight: 600;
+}
+body .headingTwo {
+  color: black;
+  display: flex;
+  align-items: center;
+  font-weight: 400;
+}
+
+body .checkOne {
+  color: white;
+  display: flex;
+}
+
+body .radio {
+  display: flex;
+}
+body .spaceOne {
+  margin: 30px 0px;
+}
+body .headingFive {
+  color: black;
+  font-weight: 400;
+}
+body .headerCell {
+  padding: 3px;
+  color: black;
+  text-transform: none;
+  font-size: 14px;
+}
+body .table {
+  margin-top: 20px;
+}
+body .tbody {
+  padding: 3px;
+  color: black;
+}
+
+body .panel {
+  padding: 0px;
+}
+body .transform {
+  text-transform: none;
+}

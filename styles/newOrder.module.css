@@ -1,0 +1,53 @@
+body .container {
+  padding: 1.5rem !important;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .headingTwo {
+  margin-left: 10px;
+  font-weight: 800;
+}
+body .headingOne {
+  margin-left: 10px;
+}
+body .headerText {
+  margin-top: 10px;
+}
+body .footer {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+body .heading {
+  color: orangered;
+  display: flex;
+  justify-content: center;
+}
+
+body .button2 {
+  text-transform: none;
+  margin: 15px;
+  padding: 15px;
+}
+body .block {
+  margin-top: 15px;
+}
+body .aster {
+  color: red;
+}
+body .modal {
+  padding: 0;
+  overflow: auto;
+  max-width: 950px;
+  margin: auto;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  height: 40%;
+}

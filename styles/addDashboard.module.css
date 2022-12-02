@@ -1,0 +1,26 @@
+body .container {
+  padding: 1.5rem;
+  overflow: hidden;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+body .table {
+  margin-top: 15px;
+}
+body .button {
+  text-transform: none;
+}
+body .buttonTwo {
+  text-transform: none;
+  float: right;
+}
+
+body .tbodyTwo {
+  padding: 3px;
+  color: blue;
+  cursor: pointer;
+  font-weight: 600;
+}

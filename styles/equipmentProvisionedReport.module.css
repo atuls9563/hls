@@ -1,0 +1,21 @@
+body .heading {
+  font-weight: 600;
+  margin: 15px;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin: 15px;
+}
+
+body .textField {
+  display: flex;
+  align-items: center;
+  margin: 40px 15px 0px 0px;
+}
+
+body .button {
+  margin-left: 15px;
+  text-transform: none;
+}

@@ -1,0 +1,23 @@
+body .container {
+  padding: 1.5rem;
+}
+
+
+body .button {
+  text-transform: none;
+}
+body .textField {
+  margin-top: 20px;
+}
+body .image {
+  user-select: text;
+  cursor: crosshair;
+}
+body .aster {
+  color: red;
+}
+body .footer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 15px;
+}

@@ -1,0 +1,10 @@
+body .footer {
+  display: flex ;
+  align-items: center;
+  justify-content: right;
+  
+}
+body .text{
+    margin-right: 25px ;
+     cursor: pointer ;
+}

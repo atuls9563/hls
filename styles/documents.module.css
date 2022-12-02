@@ -1,0 +1,21 @@
+body .container {
+  padding: 1.5rem !important;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .search {
+  margin: 20px 0px 0px 0px !important;
+}
+body .heading2 {
+  color: rgb(100, 100, 234) !important;
+}
+body .divider3 {
+  width: 4px !important;
+  height: 40px !important;
+  color: rgb(0, 0, 0) !important;
+}
+body .table {
+  margin-top: 15px !important;
+}

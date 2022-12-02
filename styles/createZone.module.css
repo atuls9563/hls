@@ -1,0 +1,16 @@
+body .container {
+    padding: 1.5rem !important;
+  }
+
+body .link{
+    cursor: pointer;
+}
+body .map{
+    width: 100%;
+    height: 80vh;
+}
+body .headerRight{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

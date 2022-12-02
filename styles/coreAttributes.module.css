@@ -1,0 +1,36 @@
+body .container {
+  padding: 1.5rem;
+}
+
+body .button {
+  text-transform: none;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 15px;
+}
+body .textField {
+  margin-top: 20px !important;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  padding: 10px;
+}
+
+body .headerTwo {
+  display: flex;
+
+  align-items: center;
+}
+body .textFieldOne {
+  margin-bottom: 20px !important;
+}
+body .footer {
+  margin-top: 15px !important;
+}
+body .divider {
+  margin: 20px 0px !important;
+}
+body .aster{
+  color: red;
+}

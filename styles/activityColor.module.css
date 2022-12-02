@@ -1,0 +1,47 @@
+
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin-bottom: 15px;
+}
+
+body .heading {
+  font-weight: 600;
+}
+body .space {
+  margin-top: 10px;
+}
+body .heading1 {
+  font-weight: 400;
+  color: black;
+  margin-bottom: 5px;
+}
+
+body .divider3 {
+  width: 4px;
+  height: 40px;
+  color: rgb(0, 0, 0);
+}
+body .heading2 {
+  color: rgb(100, 100, 234);
+}
+body .headerCell {
+  padding: 0px;
+  color: black;
+  text-transform: none;
+  font-size: 14px;
+}
+body .table {
+  margin-top: 20px;
+}
+body .tbody {
+  padding: 0px 0px;
+  color: black;
+}
+
+body .colorPicker {
+  width: 70px;
+  margin: 20px 0px 20px 0px;
+  padding: 0px 0px;
+}

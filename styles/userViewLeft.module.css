@@ -1,0 +1,23 @@
+body .avatar {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+body .divider {
+  margin-top: 20px;
+}
+body .box{
+    padding: 15px 0px 10px 0px;
+}
+body .block{
+    display: flex;
+    margin-bottom: 15px;
+}
+body .heading{
+    margin-right: 15px;
+}
+body .headingTwo{
+    margin-right: 20px;
+    font-weight: 500;
+    font-size: 0.875rem;
+}

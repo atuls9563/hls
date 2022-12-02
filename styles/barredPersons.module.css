@@ -1,0 +1,41 @@
+body .container {
+  padding: 1.5rem;
+}
+body .heading {
+  margin-right: 5px;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+body .divider3 {
+  width: 4px;
+  height: 40px;
+  color: rgb(0, 0, 0);
+}
+
+body .header {
+  margin-left: auto;
+}
+body .search {
+  margin-top: 40px;
+}
+body .heading2 {
+  color: rgb(100, 100, 234);
+}
+body .button {
+  margin-left: 5px;
+  text-transform: none;
+}
+body .content {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
+body .select {
+  margin: 40px 0px 0px auto;
+}
+body .table {
+  margin-top: 20px;
+}
+

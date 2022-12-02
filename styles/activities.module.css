@@ -1,0 +1,67 @@
+body .background {
+  background-color: #414b50;
+  margin-top: 20px;
+  margin: 10px;
+}
+
+body .navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body .headingThree {
+  color: white;
+}
+
+body .checkOne {
+  color: white;
+  display: flex;
+}
+
+body .icon {
+  color: white;
+  cursor: pointer;
+}
+
+body .navHeading {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+body .block {
+  display: flex;
+  margin-top: 10px;
+}
+body .blockOne {
+  cursor: not-allowed;
+}
+body .headingFour {
+  font-weight: 600;
+}
+body .spaceOne {
+  margin: 20px 0px;
+}
+body .spaceTwo {
+  padding: 20px;
+}
+body .table {
+  margin: 10px;
+}
+body .headingFive {
+  font-weight: 400;
+}
+
+body .content {
+  margin: 10px 0px 10px 10px;
+}
+body .button2 {
+  text-transform: none;
+  margin: 15px;
+  padding: 15px;
+}
+
+body .blockTwo {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+}

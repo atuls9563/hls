@@ -1,0 +1,21 @@
+body .container {
+    padding: 1.5rem;
+  }
+  
+  body   .textField {
+    margin-top: 20px ;
+  }
+  body   .textFieldOne{
+    margin-top: -11px ;
+  }
+
+  body   .footer{
+    margin-top: 15px ;
+  
+  }
+  body   .divider{
+    margin: 20px 0px;
+  }
+  body   .button{
+    text-transform: none ;
+  }

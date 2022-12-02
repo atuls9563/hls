@@ -1,0 +1,53 @@
+body .container {
+  padding: 1.5rem ;
+}
+body .heading {
+  line-height: 1.6;
+  font-weight: 500;
+  margin-bottom: 15px ;
+}
+
+body .headingTwo {
+  color: #eb6322 ;
+  margin: 20px 0px 0px 20px ;
+}
+body .headingOne {
+  color: #eb6322 ;
+  margin: 10px 0px 0px 0px ;
+}
+body .headerCard {
+  padding: 20px;
+}
+body .block {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px 15px 0px;
+}
+body .contentCard {
+  padding: 20px;
+  display: flex ;
+  align-items: center ;
+  width: 100%;
+  height: 100%;
+}
+
+body .box {
+  color: #000;
+  height: 90px;
+  border-radius: 8px;
+  display: flex ;
+  align-items: center ;
+}
+
+body .headingThree {
+   display: flex;
+   font-weight: 500;
+}
+body .button {
+  text-transform: none ;
+  padding: 15px ;
+  margin-top: 10px ;
+}
+body .icon {
+  margin-right: 8px;
+}

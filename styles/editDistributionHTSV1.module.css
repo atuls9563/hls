@@ -1,0 +1,74 @@
+body .modal {
+  padding: 0;
+  overflow: auto;
+  max-width: 1300px;
+  margin: auto;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  height: 100%;
+}
+
+body .container {
+  padding: 10px 10px;
+  margin: auto;
+  overflow: hidden;
+}
+body .icon {
+  cursor: pointer;
+}
+body .iconTwo {
+  color: green;
+  cursor: pointer;
+}
+body .heading {
+  color: orangered;
+}
+
+body .header {
+  display: flex;
+  justify-content: space-between;
+}
+
+body .asterTwo {
+  color: red;
+  font-weight: 500;
+}
+body .divider {
+  margin: 40px 0px 10px 0px;
+}
+body .headingOne {
+  margin-left: 10px;
+}
+body .headingTwo {
+  margin-left: 10px;
+  font-weight: 800;
+  margin-top: 10px;
+  display: flex;
+}
+
+.footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: left;
+}
+
+body .button2 {
+  text-transform: none;
+  margin: 15px 10px 0px 0px;
+}
+body .button {
+  text-transform: none;
+  margin: 0px 10px 0px auto;
+}
+body .imageHeader {
+  display: flex;
+}
+body .headingFive {
+  display: flex;
+  align-items: center;
+}

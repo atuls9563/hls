@@ -1,0 +1,53 @@
+body .headingFive {
+  font-weight: 400;
+}
+body .background {
+  background-color: #414b50;
+  margin: 10px;
+}
+
+body .navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body .navHeading {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+body .navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body .headingThree {
+  color: white;
+}
+
+body .icon {
+  color: white;
+  cursor: pointer;
+}
+body .checkOne {
+  color: white;
+  display: flex;
+}
+
+body .button2 {
+  text-transform: none;
+  margin: 20px;
+  padding: 15px;
+}
+
+body .headingOne {
+  font-weight: 600;
+}
+body .divider {
+  background-color: black;
+}
+body .block {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}

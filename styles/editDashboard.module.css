@@ -1,0 +1,30 @@
+body .container {
+  padding: 1.5rem;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin-bottom: 15px;
+}
+body .divider1 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+body .divider {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+body .footer {
+  text-transform: capitalize;
+}
+body .button {
+  text-transform: capitalize;
+  margin: 10px;
+}
+body .heading {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+

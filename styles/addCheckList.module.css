@@ -1,0 +1,16 @@
+body .textField {
+  margin-top: 20px;
+}
+
+body .button {
+  text-transform: none;
+  margin-left: 15px;
+}
+body .headerRight {
+  display: flex;
+  align-items: flex-end;
+}
+
+body .icon {
+  cursor: pointer;
+}

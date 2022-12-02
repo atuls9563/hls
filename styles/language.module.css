@@ -1,0 +1,16 @@
+body .language1 {
+  font-size: 14px ;
+  font-weight: 500 ;
+  color: white ;
+  cursor: pointer ;
+ 
+}
+
+body .language2 {
+  font-size: 14px ;
+  font-weight: 500 ;
+  color: white ;
+  cursor: pointer ;
+  margin-top: 40px ;
+  margin-left: 10px ;
+}

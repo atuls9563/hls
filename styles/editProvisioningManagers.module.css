@@ -1,0 +1,29 @@
+body .container {
+    padding: 1.5rem !important;
+  }
+  body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  body .headingTwo {
+    margin-left: 10px;
+    font-weight: 800;
+  }
+  body .headingOne {
+    margin-left: 10px;
+  }
+  body .headerText {
+   
+    margin-top: 10px;
+  }
+  body .footer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  body .button2 {
+    text-transform: none;
+    margin: 15px;
+    padding: 15px;
+  }

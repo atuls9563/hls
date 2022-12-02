@@ -1,0 +1,28 @@
+body .container {
+    padding: 1.5rem ;
+  }
+  body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  body .search {
+    margin: 20px 0px 0px 0px ;
+  }
+  body .heading2 {
+    color: rgb(100, 100, 234) ;
+  }
+  body .divider3 {
+    width: 4px ;
+    height: 40px ;
+    color: rgb(0, 0, 0) ;
+  }
+  body .table {
+    margin-top: 15px ;
+  }
+  body .button {
+    text-transform: none ;
+    margin-left: 5px ;
+  }
+  body .icon {
+    cursor: pointer;
+  }

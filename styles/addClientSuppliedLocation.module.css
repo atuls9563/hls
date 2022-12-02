@@ -1,0 +1,38 @@
+body .topHeading {
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  body .container {
+    padding: 1.5rem;
+  }
+  body .asterTwo {
+    color: red;
+    margin-top: 20px;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  body .block {
+    margin-top: 20px;
+  }
+  body .blockTwo {
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      
+    }
+  body .header {
+    display: flex;
+    align-items: center;
+  }
+  
+  body .button {
+    text-transform: none;
+    margin-left: 5px;
+  }
+  body .aster {
+    color: red;
+  }
+  body .link{
+    cursor: pointer;
+  }

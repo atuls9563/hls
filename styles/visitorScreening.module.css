@@ -1,0 +1,81 @@
+body .container {
+  padding: 1.5rem;
+}
+
+body .heading {
+  margin-right: 5px;
+}
+body .headingTwo {
+  margin-right: 15px;
+}
+body .headingThree {
+  margin-right: 35px;
+}
+body .textField {
+  display: flex;
+  align-items: center;
+  margin: 20px 15px 0px 0px;
+}
+body .textFieldTwo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 15px 0px 0px;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  color: orangered;
+}
+body .divider3 {
+  width: 4px;
+  height: 40px;
+  color: rgb(0, 0, 0);
+}
+body .heading2 {
+  color: rgb(100, 100, 234);
+}
+body .button {
+  margin-left: 5px;
+  text-transform: none;
+}
+body .table {
+  margin-top: 15px;
+  width: 100%;
+}
+body .headingOne {
+  cursor: pointer;
+}
+body .header {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+body .headerOne {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+body .headingThree {
+  text-transform: none;
+  margin-left: 15px;
+}
+body .headingFour {
+  text-transform: none;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+body .search {
+  margin-top: 20px;
+}
+body .cell {
+  background-color: orangered;
+  color: white;
+  text-transform: none;
+}
+body .headerTwo {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}

@@ -1,0 +1,32 @@
+
+
+body .heading {
+  font-weight: 600 ;
+  color: black ;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin-bottom: 15px ;
+}
+body .headerDistance{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+body .button2 {
+  text-transform: none ; 
+}
+
+body .header {
+  margin-top: 15px;
+}
+body .divider {
+  margin-bottom: 0px ;
+}
+body .transform {
+  text-transform: none ;
+  
+  }

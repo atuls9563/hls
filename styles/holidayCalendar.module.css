@@ -1,0 +1,30 @@
+body .container {
+  padding: 1.5rem ;
+}
+
+body .heading {
+  margin: 5px ;
+}
+
+body .rightSlide {
+  margin-left: auto ;
+}
+body .top {
+  margin-top: 15px ;
+}
+body .topHeading {
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+body .button {
+  margin-left: 5px ;
+  text-transform: none ;
+}
+body .table {
+  margin-top: 15px ;
+  width: 100%;
+}
+body .headingOne {
+  cursor: pointer ;
+}

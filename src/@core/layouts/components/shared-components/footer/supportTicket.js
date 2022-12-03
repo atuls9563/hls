@@ -2,7 +2,6 @@ import React from 'react'
 import { useState, useEffect } from 'react'
 
 // ** MUI Imports
-
 import Grid from '@mui/material/Grid'
 import Fab from '@mui/material/Fab'
 import Dialog from '@mui/material/Dialog'
@@ -16,12 +15,15 @@ import Receipt from 'mdi-material-ui/Receipt'
 import { Close } from 'mdi-material-ui/'
 import Checkbox from '@mui/material/Checkbox'
 import { useTranslation } from 'react-i18next'
+
 // ** Icons Imports
 import styles from '../../../../../../styles/supportTicket.module.css'
 import { Paper } from '@mui/material'
 
 const SupportTicket = ({ openEdit, setOpenEdit, handleEditClickOpen, handleEditClose }) => {
-  const { t } = useTranslation()
+
+  const { t } = useTranslation();
+
   const initialValue = {
     name: '',
     email: '',
@@ -38,18 +40,19 @@ const SupportTicket = ({ openEdit, setOpenEdit, handleEditClickOpen, handleEditC
   const [isSubmit, setIsSubmit] = useState(false)
 
   // Handle Edit dialog
-
   const handleChange = e => {
     const target = e.target
     const name = target.name
     const value = target.type == 'checkbox' ? target.checked : target.value
     setContent({ ...content, [name]: value })
   }
+
   const handleSubmit = e => {
     e.preventDefault()
     setFormErrors(validate(content))
     setIsSubmit(true)
   }
+
   useEffect(() => {
     if (Object.keys(formErrors).length === 0 && isSubmit) {
     }
@@ -85,10 +88,13 @@ const SupportTicket = ({ openEdit, setOpenEdit, handleEditClickOpen, handleEditC
 
   function SubmitButton() {
     const regex = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i
+
     const reg = regex.test(content.email)
-    const regexOne =
-      /^((ftp|http|https):\/\/)?(www.)?(?!.*(ftp|http|https|www.))[a-zA-Z0-9_-]+(\.[a-zA-Z]+)+((\/)[\w#]+)*(\/\w+\?[a-zA-Z0-9_]+=\w+(&[a-zA-Z0-9_]+=\w+)*)?$/gm
+
+    const regexOne = /^((ftp|http|https):\/\/)?(www.)?(?!.*(ftp|http|https|www.))[a-zA-Z0-9_-]+(\.[a-zA-Z]+)+((\/)[\w#]+)*(\/\w+\?[a-zA-Z0-9_]+=\w+(&[a-zA-Z0-9_]+=\w+)*)?$/gm
+
     const regOne = regexOne.test(content.site)
+
     if (
       content.name.length > 1 &&
       reg &&
@@ -97,6 +103,7 @@ const SupportTicket = ({ openEdit, setOpenEdit, handleEditClickOpen, handleEditC
       content.issue.length >= 2 &&
       (regOne || content.notRelated)
     ) {
+      
       return (
         <Fab
           color='secondary'
@@ -117,6 +124,7 @@ const SupportTicket = ({ openEdit, setOpenEdit, handleEditClickOpen, handleEditC
       )
     }
   }
+  
   return (
     <>
       <Dialog open={openEdit} onClose={handleEditClose} >

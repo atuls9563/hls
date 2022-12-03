@@ -22,9 +22,11 @@ const UserLanguageDropdown = props => {
   const handleLangDropdownOpen = event => {
     setAnchorEl(event.currentTarget)
   }
+
   const handleLangDropdownClose = () => {
     setAnchorEl(null)
   }
+  
   const handleLangItemClick = lang => {
     i18n.changeLanguage(lang)
     handleLangDropdownClose()

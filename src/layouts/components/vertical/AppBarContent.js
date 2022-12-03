@@ -23,6 +23,7 @@ const AppBarContent = props => {
   // Handle Edit dialog
   const handleEditClickOpen = () => setOpenEdit(true)
   const handleEditClose = () => setOpenEdit(false)
+
   return (
     <>
       <Box className={styles.head}>

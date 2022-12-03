@@ -12,6 +12,7 @@ import { useTranslation } from 'react-i18next'
 
 const Information = ({ openEdit2, setOpenEdit2, handleEditClickOpen2, handleEditClose2 }) => {
   const { t } = useTranslation()
+  
   return (
     <div>
       <Dialog open={openEdit2} onClose={handleEditClose2} fullWidth className={styles.header}>

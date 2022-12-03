@@ -1,7 +1,8 @@
-// ** React Imports
 import { useState, Fragment } from 'react'
+
 // ** Next Import
 import { useRouter } from 'next/router'
+
 // ** MUI Imports
 import Box from '@mui/material/Box'
 import Menu from '@mui/material/Menu'
@@ -11,12 +12,14 @@ import Divider from '@mui/material/Divider'
 import MenuItem from '@mui/material/MenuItem'
 import { styled } from '@mui/material/styles'
 import Typography from '@mui/material/Typography'
+
 // ** Icons Imports
 import EmailOutline from 'mdi-material-ui/EmailOutline'
 import LogoutVariant from 'mdi-material-ui/LogoutVariant'
 import AccountOutline from 'mdi-material-ui/AccountOutline'
 import MessageOutline from 'mdi-material-ui/MessageOutline'
 import HelpCircleOutline from 'mdi-material-ui/HelpCircleOutline'
+
 // ** Context
 import { useAuth } from 'src/hooks/useAuth'
 import { useTranslation } from 'react-i18next'
@@ -78,6 +81,7 @@ const UserDropdown = props => {
       color: 'text.secondary'
     }
   }
+
   const stylesOne = {
     py: 2,
     px: 4,

@@ -1,4 +1,3 @@
-// ** MUI Imports
 import Box from '@mui/material/Box'
 import Link from '@mui/material/Link'
 import Typography from '@mui/material/Typography'
@@ -10,6 +9,7 @@ import { useState } from 'react'
 import SupportTicket from './supportTicket'
 import Information from '../footer/information'
 import { useTranslation } from 'react-i18next'
+
 const FooterContent = () => {
   const { t } = useTranslation()
   const [openEdit, setOpenEdit] = useState(false)
@@ -23,7 +23,7 @@ const FooterContent = () => {
   const handleEditClose = () => setOpenEdit(false)
   const handleEditClose1 = () => setOpenEdit1(false)
   const handleEditClose2 = () => setOpenEdit2(false)
-  // ** Var
+  
   const hidden = useMediaQuery(theme => theme.breakpoints.down('md'))
 
   return (

@@ -15,7 +15,7 @@ import Link from 'next/link'
 import React, { useState } from 'react'
 import styles from '../../../../styles/editContact.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 
 const EditContact = () => {
   const { t } = useTranslation()

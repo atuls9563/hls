@@ -4,7 +4,7 @@ import { Grid, Checkbox, Fab, Radio } from '@mui/material'
 import Typography from '@mui/material/Typography'
 import styles from '../../../../styles/sosConfiguration.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 
 const SOSConfiguration = () => {
   const { t } = useTranslation()

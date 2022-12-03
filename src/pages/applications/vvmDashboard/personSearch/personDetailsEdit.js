@@ -5,7 +5,7 @@ import React, { useState } from 'react'
 import { Checkbox, Fab, Grid, Paper, Radio, TextField } from '@mui/material'
 import { useTranslation } from 'react-i18next'
 import styles from '../../../../../styles/personDetailsEdit.module.css'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 import Image from 'next/image'
 import ImageUploading from 'react-images-uploading'
 

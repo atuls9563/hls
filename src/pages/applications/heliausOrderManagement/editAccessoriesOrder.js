@@ -4,7 +4,7 @@ import { Grid, Select, MenuItem, TextField, Checkbox, Breadcrumbs, Divider, Radi
 import Typography from '@mui/material/Typography'
 import styles from '../../../../styles/editAccessoriesOrder.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 import Link from 'next/link'
 import Table from '@mui/material/Table'
 import TableBody from '@mui/material/TableBody'

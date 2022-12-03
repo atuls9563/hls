@@ -3,7 +3,7 @@ import React from 'react'
 import styles from '../../../../styles/addContact.module.css'
 import { useTranslation } from 'react-i18next'
 import Link from 'next/link'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 
 const AddContact = () => {
   const { t } = useTranslation()

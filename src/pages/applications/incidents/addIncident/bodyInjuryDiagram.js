@@ -5,7 +5,8 @@ import Typography from '@mui/material/Typography'
 import styles from '../../../../../styles/bodyInjuryDiagram.module.css'
 import { useTranslation } from 'react-i18next'
 import { Close, EyeOffOutline, SquareEditOutline } from 'mdi-material-ui'
-import CanvasDraw from 'react-canvas-draw'
+
+// import CanvasDraw from 'react-canvas-draw'
 
 const BodyInjuryDiagram = (props) => {
   const { t } = useTranslation()
@@ -129,7 +130,7 @@ const BodyInjuryDiagram = (props) => {
                       {value ? (
                         <Grid container justifyContent='space-between'>
                           <Grid item xs={12} md={5}>
-                            <CanvasDraw
+                            {/* <CanvasDraw
                               brushRadius={1}
                               onChange={() => console.log('onChange')}
                               brushColor='rgb(255, 0, 0)'
@@ -138,7 +139,7 @@ const BodyInjuryDiagram = (props) => {
                               canvasWidth={482}
                               canvasHeight={490}
                               className={styles.image}
-                            />
+                            /> */}
                           </Grid>
                           <Grid item xs={12} md={3.9}>
                             <Grid container className={styles.textField}>

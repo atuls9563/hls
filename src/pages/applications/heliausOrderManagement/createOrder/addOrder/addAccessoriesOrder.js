@@ -2,7 +2,7 @@ import { Checkbox, Fab, Grid, MenuItem, Paper, Radio, Select, TextField, Typogra
 import React, { useState } from 'react'
 import styles from '../../../../../../styles/addAccessoriesOrder.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 
 const AddAccessoriesOrder = () => {
     const { t } = useTranslation()

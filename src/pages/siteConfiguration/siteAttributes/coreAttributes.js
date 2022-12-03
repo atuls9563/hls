@@ -4,7 +4,7 @@ import { Grid, TextField, Select, MenuItem, Checkbox, Fab, Autocomplete, Radio, 
 import Typography from '@mui/material/Typography'
 import styles from '../../../../styles/coreAttributes.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 
 const CoreAttributes = () => {
   const { t } = useTranslation()

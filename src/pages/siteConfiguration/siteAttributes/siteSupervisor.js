@@ -4,7 +4,7 @@ import { Grid, TextField, Checkbox, Fab } from '@mui/material'
 import Typography from '@mui/material/Typography'
 import styles from '../../../../styles/siteSupervisor.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 
 const SiteSupervisor = () => {
   const { t } = useTranslation()

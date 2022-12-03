@@ -4,7 +4,8 @@ import React, { useState } from 'react'
 import styles from '../../../../styles/editStaticTour.module.css'
 import { useTranslation } from 'react-i18next'
 
-import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd-next'
+// import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd-next'
+
 import { Filter } from 'mdi-material-ui'
 
 // const getItems = {

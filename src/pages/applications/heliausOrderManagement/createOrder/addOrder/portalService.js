@@ -2,7 +2,7 @@ import { Fab, Grid, MenuItem, Paper, Radio, Select, TextField, Typography } from
 import React, { useState } from 'react'
 import styles from '../../../../../../styles/portalService.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 import Alert from '@mui/material/Alert'
 
 const PortalService = () => {

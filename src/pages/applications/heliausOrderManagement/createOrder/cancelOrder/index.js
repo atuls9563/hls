@@ -2,7 +2,7 @@ import { Breadcrumbs, Checkbox, Fab, Grid, MenuItem, Paper, Radio, Select, TextF
 import React, { useState } from 'react'
 import styles from '../../../../../../styles/cancelOrder.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 import { DataGrid } from '@mui/x-data-grid'
 import Alert from '@mui/material/Alert'
 import Link from 'next/link'

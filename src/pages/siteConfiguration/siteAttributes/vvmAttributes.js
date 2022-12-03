@@ -4,7 +4,7 @@ import { Grid, TextField, Select, MenuItem, Checkbox, Divider, Fab, Autocomplete
 import Typography from '@mui/material/Typography'
 import styles from '../../../../styles/vvmAttributes.module.css'
 import { useTranslation } from 'react-i18next'
-import MuiPhoneNumber from 'material-ui-phone-number'
+import MuiPhoneNumber from 'material-ui-phone-number-2'
 
 const VVMAttributes = () => {
   const { t } = useTranslation()
